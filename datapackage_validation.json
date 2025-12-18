@@ -47,10 +47,10 @@
         "scheme": "file",
         "title": "Óbitos hospitalares e institucionais a partir de 2025",
         "stats": {
-          "hash": "00f4796d50d64be14658141a5ed93561",
-          "bytes": 2948,
+          "hash": "cc5308d0bca024f7beb4808d573c8032",
+          "bytes": 2886,
           "fields": 5,
-          "rows": 170
+          "rows": 165
         }
       },
       "time": 0.013,
